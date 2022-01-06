@@ -1,4 +1,4 @@
-//1. select all squares 
+//1. select all squares here
 
 const squares = document.querySelectorAll('.square')
 const mole = document.querySelector('.mole')
