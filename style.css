@@ -1,0 +1,35 @@
+/* styling the individual squares (in a row - vertically) */
+
+.square {
+    width: 200px;
+    height: 200px;
+    border: solid black 1px;
+}
+
+/* formatting the grid shape */
+.grid{ 
+    /* goes across */
+    display: flex;
+    /* wrap 3 x 3 */
+    flex-flow:row wrap;
+    justify-content: center;
+    align-content: center;
+    /*space between squares*/
+    width: 606px;
+    height: 606px;
+    background-image: url(dirt.jpg);
+}
+
+/*add image to a div*/
+.mole {
+    background-image: url(mole1.jpg);
+    background-size: cover;
+}
+
+#score{
+    color: lightseagreen;
+}
+
+#time-left{
+    color: tomato
+}
