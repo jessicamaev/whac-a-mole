@@ -4,7 +4,12 @@ Whac-A-Mole is an arcade and carnival game, originally known as Mogura Taiji (ãƒ
 
 For more information about the game <a href="https://en.wikipedia.org/wiki/Whac-A-Mole"> Read Me</a>
 
-## Play
+## Objective
 
 You will get a point for everytime you click the mole.
+You have 60 seconds to accumulate as many points as you can.
+
+## Play 
+
+https://jessicamaev.github.io/whac-a-mole/
 
