@@ -6,7 +6,7 @@ For more information about the game <a href="https://en.wikipedia.org/wiki/Whac-
 
 ## Objective
 
-You will get a point for everytime you click the mole.
+You will get a point for everytime you click the mole. <br>
 You have 60 seconds to accumulate as many points as you can.
 
 ## Play 
