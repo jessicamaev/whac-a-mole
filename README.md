@@ -1,1 +1,1 @@
-# Browser Game: whack-a-mole
+# Whac-a-mole
